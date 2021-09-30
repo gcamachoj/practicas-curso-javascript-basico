@@ -14,3 +14,4 @@ else {
 
 var numero =1;
 var resultado = numero ===1 ? "Si, soy uno" : "No, no soy uno";
+
